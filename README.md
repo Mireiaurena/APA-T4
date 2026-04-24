@@ -183,7 +183,10 @@ Inserte a continuación una captura de pantalla que muestre el resultado de ejec
 fichero `aleatorios.py` con la opción *verbosa*, de manera que se muestre el
 resultado de la ejecución de los tests unitarios.
 
-<img width="242" height="56" alt="T4 Mireia" src="https://github.com/user-attachments/assets/3918f6cd-e250-4d1a-8a03-cb5f009edcd1" />
+![alt text](test1_T4.png)
+![alt text](test2_T4.png)
+![alt text](test3_T4.png)
+
 
 #### Código desarrollado
 
